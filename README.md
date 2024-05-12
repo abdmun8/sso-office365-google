@@ -1,1 +1,1 @@
-# sso-office365-google
+# SSO demo with o365 and gsuite
